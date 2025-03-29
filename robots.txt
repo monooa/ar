@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://menooa.github.io/meto/sitemap.xml
