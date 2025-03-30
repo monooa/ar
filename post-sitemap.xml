@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/ar/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://localhost/ar/</loc>
+		<loc>https://monooa.github.io/ar/</loc>
 		<lastmod>2025-03-30T18:13:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/the-basic-components-of-a-desktop-computer/</loc>
+		<loc>https://monooa.github.io/ar/the-basic-components-of-a-desktop-computer/</loc>
 		<lastmod>2025-03-30T18:05:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/how-to-choose-the-right-computer-processor-for-your-needs/</loc>
+		<loc>https://monooa.github.io/ar/how-to-choose-the-right-computer-processor-for-your-needs/</loc>
 		<lastmod>2025-03-30T18:07:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/how-much-ram-do-you-really-need/</loc>
+		<loc>https://monooa.github.io/ar/how-much-ram-do-you-really-need/</loc>
 		<lastmod>2025-03-30T18:07:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/difference-between-ddr4-and-ddr5-ram/</loc>
+		<loc>https://monooa.github.io/ar/difference-between-ddr4-and-ddr5-ram/</loc>
 		<lastmod>2025-03-30T18:08:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/motherboard-the-heart-of-the-computer/</loc>
+		<loc>https://monooa.github.io/ar/motherboard-the-heart-of-the-computer/</loc>
 		<lastmod>2025-03-30T18:10:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/choosing-a-motherboard-and-ensuring-its-compatibility-with/</loc>
+		<loc>https://monooa.github.io/ar/choosing-a-motherboard-and-ensuring-its-compatibility-with/</loc>
 		<lastmod>2025-03-30T18:10:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/hdd-vs-ssd-storage-units/</loc>
+		<loc>https://monooa.github.io/ar/hdd-vs-ssd-storage-units/</loc>
 		<lastmod>2025-03-30T18:11:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/why-ssd-is-better-than-hdd-for-most-users/</loc>
+		<loc>https://monooa.github.io/ar/why-ssd-is-better-than-hdd-for-most-users/</loc>
 		<lastmod>2025-03-30T18:11:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/nvme-ssds-are-the-fastest-storage-drives/</loc>
+		<loc>https://monooa.github.io/ar/nvme-ssds-are-the-fastest-storage-drives/</loc>
 		<lastmod>2025-03-30T18:11:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/guide-to-choosing-the-right-ssd-or-hdd/</loc>
+		<loc>https://monooa.github.io/ar/guide-to-choosing-the-right-ssd-or-hdd/</loc>
 		<lastmod>2025-03-30T18:11:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/gpu-graphics-card-importance-for-games/</loc>
+		<loc>https://monooa.github.io/ar/gpu-graphics-card-importance-for-games/</loc>
 		<lastmod>2025-03-30T18:12:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/how-to-choose-the-right-graphics-card-for-your-computer/</loc>
+		<loc>https://monooa.github.io/ar/how-to-choose-the-right-graphics-card-for-your-computer/</loc>
 		<lastmod>2025-03-30T18:12:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/nvidia-geforce-or-amd-radeon/</loc>
+		<loc>https://monooa.github.io/ar/nvidia-geforce-or-amd-radeon/</loc>
 		<lastmod>2025-03-30T18:12:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://localhost/ar/do-you-need-a-discrete-graphics-card/</loc>
+		<loc>https://monooa.github.io/ar/do-you-need-a-discrete-graphics-card/</loc>
 		<lastmod>2025-03-30T18:13:21+00:00</lastmod>
 	</url>
 </urlset>
