@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://monooa.github.io/ar/social/sitemap.xml
