@@ -2,11 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>http://localhost/ar/post-sitemap.xml</loc>
-		<lastmod>2025-03-30T14:25:49+00:00</lastmod>
+		<lastmod>2025-03-30T18:13:21+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>http://localhost/ar/category-sitemap.xml</loc>
-		<lastmod>2025-03-30T14:25:49+00:00</lastmod>
+		<lastmod>2025-03-30T18:13:21+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>http://localhost/ar/author-sitemap.xml</loc>
